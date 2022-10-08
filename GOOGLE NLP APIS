@@ -1,1 +1,15 @@
+What happens if Google NLP API does not respond back？
 
+  Check the object to serialize
+
+What do I send?
+
+  Statements in different languages, such as movie reviews
+
+What do I get?
+
+  Scores for different reviews
+
+How can I use such data?
+
+  the sentiment score is between negative and positive, which we count as between -1 and +1
